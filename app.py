@@ -47,7 +47,7 @@ ADMIN_PASSWORD = "admin1234"
 
 API_KEY = os.getenv(
     "API_KEY"
-) or "AIzaSyAsJcfLPXc7pWbzjKzrNVIftt_ECDxj71g"
+)
 
 # =========================
 # ROTA PRINCIPAL
